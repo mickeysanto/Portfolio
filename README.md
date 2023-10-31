@@ -18,13 +18,13 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 
 ### Projects
 Micronaut
-- Micronaut is a first-person, VR, planetary exploration game where players can select from two different miniature-sized 
-  planets to roam around and explore I made for my Immersive Media VR development class
+- Micronaut is a first-person, VR, planetary exploration game that I made for my Immersive Media VR development class
+- Players can select from two different miniature-sized planets to roam around and explore
 - The planets are spherical and the player can walk completely around the planet in any direction they choose
 - Each one of the planets is unique and is filled with little points of interest that the player can discover and there are 
   simple AI NPCs on the planets that the player can look at
 - Micronaut was developed for the Oculus Quest 2 in Unity with the programming done in C# 
-- All the assets were created by hand in Blender 
+- All the assets were modeled by hand in Blender 
 
 Fi Melior 
 - A hack and slash, dungeon crawler video game made Jason Zhang, Jessica Nefflen, Kyle White, Josiah Kim, and myself 
@@ -32,3 +32,8 @@ Fi Melior
 - I developed the enemy NPC AI for the game which have multiple states in which they can advance towards the player,
   attack, retreat, and spawn other AI
 - Developed in Unity & coded in C# 
+
+### Skills
+- Highly skilled in: C#, Java, Unity
+- Proficient in: C, OCaml, Ruby, Maya, Abelton
+- Teamwork & Communication
