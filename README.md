@@ -17,7 +17,7 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 - Designed additional gameplay mechanics for the unreleased game
 
 ### Projects
-<a href="https://github.com/mickeysanto/Micronaut/tree/main">Micronaut</a>
+<a href="https://github.com/mickeysanto/Micronaut/tree/main">Micronaut</a> (2022)
 - Micronaut is a first-person, VR, planetary exploration game that I made for my Immersive Media VR development class
 - Players can select from two different miniature-sized planets to roam around and explore
 - The planets are spherical and the player can walk completely around the planet in any direction they choose
@@ -26,7 +26,7 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 - Micronaut was developed for the Oculus Quest 2 in Unity with the programming done in C# 
 - All the assets were modeled by hand in Blender 
 
-<a href="https://github.com/mickeysanto/Fi-Melior">Fi Melior</a>
+<a href="https://github.com/mickeysanto/Fi-Melior">Fi Melior</a> (2023)
 - A hack and slash, dungeon crawler video game made Jason Zhang, Jessica Nefflen, Kyle White, Josiah Kim, and myself 
   for my games programming class
 - I developed the enemy NPC AI for the game which have multiple states in which they can advance towards the player,
