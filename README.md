@@ -26,7 +26,7 @@ Micronaut
 - Micronaut was developed for the Oculus Quest 2 in Unity with the programming done in C# 
 - All the assets were modeled by hand in Blender 
 
-Fi Melior 
+<a href="https://github.com/mickeysanto/Fi-Melior">Fi Melior</a>
 - A hack and slash, dungeon crawler video game made Jason Zhang, Jessica Nefflen, Kyle White, Josiah Kim, and myself 
   for my games programming class
 - I developed the enemy NPC AI for the game which have multiple states in which they can advance towards the player,
