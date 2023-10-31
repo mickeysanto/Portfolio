@@ -17,7 +17,7 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 - Designed additional gameplay mechanics for the unreleased game
 
 ### Projects
-Micronaut
+<a href="https://github.com/mickeysanto/Micronaut/tree/main">Micronaut</a>
 - Micronaut is a first-person, VR, planetary exploration game that I made for my Immersive Media VR development class
 - Players can select from two different miniature-sized planets to roam around and explore
 - The planets are spherical and the player can walk completely around the planet in any direction they choose
