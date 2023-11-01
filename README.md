@@ -24,7 +24,15 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 - Each one of the planets is unique and is filled with little points of interest that the player can discover and there are 
   simple AI NPCs on the planets that the player can look at
 - Micronaut was developed for the Oculus Quest 2 in Unity with the programming done in C# 
-- All the assets were modeled by hand in Blender 
+- All the assets were modeled by hand in Blender
+
+<a href="https://github.com/mickeysanto/Little-World">Little World</a> (2023)
+- A simple ecosystem simulation that is populated by AI NPCs and a controllable player character
+- Each AI NPC has their own health and hunger meter and need to eat to survive
+- Herbivore NPCs eat berries that spawn on bushes and Carnivores eat other NPCs
+- Each NPC spawns in with randomly generated stats like: health, attack damage, speed, etc.
+- NPCs also have a fight or flight resonse where when they are hit they either run away or fight
+- The player can control an animal to participate in the ecosystem and has to eat and fight to survive
 
 <a href="https://github.com/mickeysanto/Fi-Melior">Fi Melior</a> (2023)
 - A hack and slash, dungeon crawler video game made Jason Zhang, Jessica Nefflen, Kyle White, Josiah Kim, and myself 
