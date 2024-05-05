@@ -43,5 +43,6 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 
 ### Skills
 - Highly skilled in: C#, Java, Unity
-- Proficient in: C, OCaml, Ruby, Maya, Ableton
+- Proficient in: C, OCaml, Ruby, Maya, Ableton, Blender
+- Linear Algebra
 - Teamwork & Communication
