@@ -1,10 +1,10 @@
 # Programmer and Immersive Media Designer
 
 ### Education
-Pursuing a BS in Immersive Media Design, Computing Track at the University of Maryland, College Park (graduating Spring 2024)
+BS in Immersive Media Design, Computing Track at the University of Maryland, College Park (graduated Spring 2024)
 
 ### Work Experience
-Computer Graphics Programmer / Researcher @ UMD for NASA grant (February 2023 - present)
+Computer Graphics Programmer / Researcher @ UMD for NASA grant (February 2023 - May 2024)
 - Worked in a team of four to research solutions to rasterize NASA weather data as point clouds within Unity
 - Translated a GLSL shader codebase to HLSL
 - Debugged C# and HLSL code
