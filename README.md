@@ -4,7 +4,16 @@
 BS in Immersive Media Design, Computing Track at the University of Maryland, College Park (graduated Spring 2024)
 
 ### Work Experience
-Computer Graphics Programmer / Researcher @ UMD for NASA grant (February 2023 - May 2024)
+Software Engineer @ Rent Control Consultans, Inc. (RCC) (June 2024 - Present)
+- Added functionality to a MS WinForms application that locates 
+  and displays discrepancies between the RCC database of 
+  rental properties/units and the DC government’s MAR database
+- Created a MS WinForms application with a user interface that  
+  allows end users to search for landlord, property, and contact  
+  information utilizing SQL queries to greatly improve search speeds
+
+
+Software Engineering Intern / Researcher @ UMD for NASA grant (February 2023 - May 2024)
 - Worked in a team of four to research solutions to rasterize NASA weather data as point clouds within Unity
 - Translated a GLSL shader codebase to HLSL
 - Debugged C# and HLSL code
@@ -17,6 +26,18 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 - Designed additional gameplay mechanics for the unreleased game
 
 ### Projects
+
+<a href="https://github.com/mickeysanto/ARcade">ARcade</a> (2024)
+- ARcade is an augmented reality-based, tower defense videogame I developed as my solo senior project
+- Players control and move two laser gun "towers" that are spawned in on trigger images to shoot down
+  waves of enemy robots that are trying to attack your home base
+- The more robots you defeat, the higher your score rises, but if too many robots make it to your
+  home base, the base will be destroyed and you will lose
+- The game was developed to be an endless arcade game where you try to score as high as you can
+- ARcade was made within Unity with the coding done in C#, modeling done in Blender, soundtrack
+  produced in Ableton Live, and the AR image tracking done with Vuforia Engine
+
+
 <a href="https://github.com/mickeysanto/Micronaut/tree/main">Micronaut</a> (2022)
 - Micronaut is a first-person, VR, planetary exploration game that I made for my Immersive Media VR development class
 - Players can select from two different miniature-sized planets to roam around and explore
