@@ -27,6 +27,10 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 
 ### Projects
 
+<a href="https://github.com/mickeysanto/Worldly-Planes">Worldly Planes</a> (2024 - Present)
+- A 3D isometric video game project currently under development
+- Updates to the game are posted in order to document the development process
+
 <a href="https://github.com/mickeysanto/ARcade">ARcade</a> (2024)
 - ARcade is an augmented reality-based, tower defense videogame I developed as my solo senior project
 - Players control and move two laser gun "towers" that are spawned in on trigger images to shoot down
@@ -65,7 +69,5 @@ Video Game Engineering & Design Intern @ The Verse (May 2023 - August 2023)
 - Developed in Unity & coded in C# 
 
 ### Skills
-- Highly skilled in: C#, Java, Unity
-- Proficient in: C, OCaml, Ruby, Maya, Ableton, Blender, SQL
-- Linear Algebra
-- Teamwork & Communication
+- Highly skilled in: C#, Unity, Visual Studio 2019/2022, WinForms, HTML
+- Proficient in: Python, C, Java, SQL Server/SQL Management Studio, ASP.NET, .NET MAUI, WCF, Blender
